@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="crossFill" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ffc06e"/>
+        <stop offset="100%" stop-color="#c9821f"/>
+      </linearGradient>
+    </defs>
+    
+    <g>
+      <rect x="97.28" y="204.98285714285714" width="317.44" height="102.03428571428572" rx="16.325485714285715" fill="url(#crossFill)"  />
+      <rect x="204.98285714285714" y="97.28" width="102.03428571428572" height="317.44" rx="16.325485714285715" fill="url(#crossFill)"  />
+    </g>
+  </svg>
